@@ -7,3 +7,5 @@ Client application
 5. Send and receive data
 
 [Notion doc](https://rounded-soup-898.notion.site/Hello-world-for-winsock-d2804a7e4bd6483c84acf1ed1e44de97?pvs=4)
+
+To run the application, build/debug the `.sln` file in visual studio. 
